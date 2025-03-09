@@ -35,6 +35,7 @@
                 trackCounter++;
             }
             Console.WriteLine("Complete");
+
         }
     }
 }

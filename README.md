@@ -1,1 +1,1 @@
-# MySummerCarTrackRenamer
+A program designed to change track names to suitable ones for MySummerCar
